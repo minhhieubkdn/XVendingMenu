@@ -1,0 +1,84 @@
+{
+  "drinks": [
+    {
+      "name": "Lemon Juice",
+      "type": "Non-Alcoholic",
+      "price": 3.99,
+      "discount": 0.25,
+      "description": "Freshly squeezed lemon juice served over ice.",
+      "image": "https://example.com/images/lemon_juice.jpg"
+    },
+    {
+      "name": "Soda",
+      "type": "Non-Alcoholic",
+      "price": 1.99,
+      "discount": 0.10,
+      "description": "A refreshing carbonated drink available in a variety of flavors.",
+      "image": "https://example.com/images/soda.jpg"
+    },
+    {
+      "name": "Tea",
+      "type": "Non-Alcoholic",
+      "price": 2.99,
+      "discount": 0.15,
+      "description": "A hot or iced tea, available in a variety of flavors.",
+      "image": "https://example.com/images/tea.jpg"
+    },
+    {
+      "name": "Coffee",
+      "type": "Non-Alcoholic",
+      "price": 4.99,
+      "discount": 0.20,
+      "description": "A freshly brewed coffee, available hot or iced.",
+      "image": "https://example.com/images/coffee.jpg"
+    },
+    {
+      "name": "Smoothie",
+      "type": "Non-Alcoholic",
+      "price": 5.99,
+      "discount": 0.30,
+      "description": "A blend of fresh fruit, yogurt, and juice.",
+      "image": "https://example.com/images/smoothie.jpg"
+    },
+    {
+      "name": "Milkshake",
+      "type": "Non-Alcoholic",
+      "price": 4.99,
+      "discount": 0.15,
+      "description": "A classic shake made with ice cream and milk.",
+      "image": "https://example.com/images/milkshake.jpg"
+    },
+    {
+      "name": "Iced Latte",
+      "type": "Non-Alcoholic",
+      "price": 4.99,
+      "discount": 0.20,
+      "description": "A refreshing latte made with espresso, milk, and ice.",
+      "image": "https://example.com/images/iced_latte.jpg"
+    },
+    {
+      "name": "Hot Chocolate",
+      "type": "Non-Alcoholic",
+      "price": 3.99,
+      "discount": 0.10,
+      "description": "A warm and comforting drink made with rich chocolate and milk.",
+      "image": "https://example.com/images/hot_chocolate.jpg"
+    },
+    {
+      "name": "Margarita",
+      "type": "Alcoholic",
+      "price": 7.99,
+      "discount": 0.25,
+      "description": "A classic cocktail made with tequila, lime juice, and triple sec.",
+      "image": "https://example.com/images/margarita.jpg"
+    },
+    {
+      "name": "Mojito",
+      "type": "Alcoholic",
+      "price": 8.99,
+      "discount": 0.30,
+      "description": "A refreshing cocktail made with rum, lime juice, and mint.",
+      "image": "https://example.com/images/mojito.jpg"
+    }
+  ]
+}
