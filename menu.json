@@ -7,7 +7,7 @@
       "drinkDiscount": 0.25,
       "drinkDescription": "Refreshing citrus beverage.",
       "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/lemon_juice.png",
-      "detail": "Lemon juice is a refreshing and tangy drink made from freshly squeezed lemons. It is a great source of vitamin C and is known for its detoxifying properties."
+      "drinkDetail": "Lemon juice is a refreshing and tangy drink made from freshly squeezed lemons. It is a great source of vitamin C and is known for its detoxifying properties."
     },
     {
       "drinkName": "Soda",
@@ -16,7 +16,7 @@
       "drinkDiscount": 0.10,
       "drinkDescription": "Fizzing refreshing drink.",
       "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/soda.png",
-      "detail": "Soda is a carbonated beverage that comes in various flavors. It is a popular choice for quenching thirst and is often enjoyed with ice and a slice of lemon or lime."
+      "drinkDetail": "Soda is a carbonated beverage that comes in various flavors. It is a popular choice for quenching thirst and is often enjoyed with ice and a slice of lemon or lime."
     },
     {
       "drinkName": "Tea",
@@ -25,7 +25,7 @@
       "drinkDiscount": 0.15,
       "drinkDescription": "Versatile and flavorful.",
       "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/tea.png",
-      "detail": "Tea is a versatile and widely consumed beverage. It can be enjoyed hot or iced and comes in a variety of flavors, such as green tea, black tea, and herbal tea."
+      "drinkDetail": "Tea is a versatile and widely consumed beverage. It can be enjoyed hot or iced and comes in a variety of flavors, such as green tea, black tea, and herbal tea."
     },
     {
       "drinkName": "Coffee",
@@ -34,7 +34,7 @@
       "drinkDiscount": 0.20,
       "drinkDescription": "Invigorating caffeinated beverage.",
       "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/blackcoffee.png",
-      "detail": "Coffee is a popular caffeinated beverage enjoyed by many. It can be served hot or iced and comes in different roasts and flavors. Coffee is known for its stimulating effects."
+      "drinkDetail": "Coffee is a popular caffeinated beverage enjoyed by many. It can be served hot or iced and comes in different roasts and flavors. Coffee is known for its stimulating effects."
     },
     {
       "drinkName": "Smoothie",
@@ -43,7 +43,7 @@
       "drinkDiscount": 0.30,
       "drinkDescription": "Healthy fruity delight.",
       "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/smoothie.png",
-      "detail": "Smoothies are healthy and delicious drinks made by blending fresh fruits, yogurt, and juice together. They are a great way to get a dose of vitamins and minerals."
+      "drinkDetail": "Smoothies are healthy and delicious drinks made by blending fresh fruits, yogurt, and juice together. They are a great way to get a dose of vitamins and minerals."
     },
     {
       "drinkName": "Milkshake",
@@ -52,7 +52,7 @@
       "drinkDiscount": 0.15,
       "drinkDescription": "Creamy frozen treat.",
       "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/milkshake.png",
-      "detail": "Milkshakes are classic treats made with a blend of ice cream and milk. They come in various flavors and are often topped with whipped cream and a cherry."
+      "drinkDetail": "Milkshakes are classic treats made with a blend of ice cream and milk. They come in various flavors and are often topped with whipped cream and a cherry."
     },
     {
       "drinkName": "Iced Latte",
@@ -61,7 +61,7 @@
       "drinkDiscount": 0.20,
       "drinkDescription": "Chilled coffee delight.",
       "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/iced_latte.png",
-      "detail": "Iced lattes are popular coffee-based beverages made with espresso, milk, and ice. They offer a cool and creamy way to enjoy your favorite coffee flavors."
+      "drinkDetail": "Iced lattes are popular coffee-based beverages made with espresso, milk, and ice. They offer a cool and creamy way to enjoy your favorite coffee flavors."
     },
     {
       "drinkName": "Hot Chocolate",
@@ -70,7 +70,7 @@
       "drinkDiscount": 0.10,
       "drinkDescription": "Cozy chocolate indulgence..",
       "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/hot_chocolate.png",
-      "detail": "Hot chocolate is a cozy and indulgent beverage made with rich chocolate and warm milk. It is often topped with whipped cream or marshmallows for added delight."
+      "drinkDetail": "Hot chocolate is a cozy and indulgent beverage made with rich chocolate and warm milk. It is often topped with whipped cream or marshmallows for added delight."
     },
     {
       "drinkName": "Margarita",
@@ -79,7 +79,7 @@
       "drinkDiscount": 0.25,
       "drinkDescription": "Refreshing tequila mix.",
       "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/margarita.png",
-      "detail": "Margarita is a popular and refreshing cocktail made with tequila, lime juice, and triple sec. It is often served with salt on the rim of the glass and can be enjoyed frozen or on the rocks."
+      "drinkDetail": "Margarita is a popular and refreshing cocktail made with tequila, lime juice, and triple sec. It is often served with salt on the rim of the glass and can be enjoyed frozen or on the rocks."
     },
     {
       "drinkName": "Mojito",
@@ -88,7 +88,7 @@
       "drinkDiscount": 0.30,
       "drinkDescription": "Minty rum delight.",
       "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/mojito.png",
-      "detail": "Mojito is a popular cocktail that combines the flavors of rum, lime juice, mint leaves, sugar, and soda water. It is a refreshing and minty drink, perfect for a summer day."
+      "drinkDetail": "Mojito is a popular cocktail that combines the flavors of rum, lime juice, mint leaves, sugar, and soda water. It is a refreshing and minty drink, perfect for a summer day."
     }
   ]
 }
