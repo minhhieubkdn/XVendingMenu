@@ -6,7 +6,8 @@
       "drinkPrice": 3.99,
       "drinkDiscount": 0.25,
       "drinkDescription": "Freshly squeezed lemon juice served over ice.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/lemon_juice.png"
+      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/lemon_juice.png",
+      "detail": "Lemon juice is a refreshing and tangy drink made from freshly squeezed lemons. It is a great source of vitamin C and is known for its detoxifying properties."
     },
     {
       "drinkName": "Soda",
@@ -14,15 +15,17 @@
       "drinkPrice": 1.99,
       "drinkDiscount": 0.10,
       "drinkDescription": "A refreshing carbonated drink available in a variety of flavors.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/soda.png"
+      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/soda.png",
+      "detail": "Soda is a carbonated beverage that comes in various flavors. It is a popular choice for quenching thirst and is often enjoyed with ice and a slice of lemon or lime."
     },
     {
       "drinkName": "Tea",
       "drinkType": "Non-Alcoholic",
       "drinkPrice": 2.99,
-      "drinkdrinkDiscount": 0.15,
+      "drinkDiscount": 0.15,
       "drinkDescription": "A hot or iced tea, available in a variety of flavors.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/tea.png"
+      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/tea.png",
+      "detail": "Tea is a versatile and widely consumed beverage. It can be enjoyed hot or iced and comes in a variety of flavors, such as green tea, black tea, and herbal tea."
     },
     {
       "drinkName": "Coffee",
@@ -30,7 +33,8 @@
       "drinkPrice": 4.99,
       "drinkDiscount": 0.20,
       "drinkDescription": "A freshly brewed coffee, available hot or iced.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/coffee.png"
+      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/coffee.png",
+      "detail": "Coffee is a popular caffeinated beverage enjoyed by many. It can be served hot or iced and comes in different roasts and flavors. Coffee is known for its stimulating effects."
     },
     {
       "drinkName": "Smoothie",
@@ -38,7 +42,8 @@
       "drinkPrice": 5.99,
       "drinkDiscount": 0.30,
       "drinkDescription": "A blend of fresh fruit, yogurt, and juice.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/smoothie.png"
+      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/smoothie.png",
+      "detail": "Smoothies are healthy and delicious drinks made by blending fresh fruits, yogurt, and juice together. They are a great way to get a dose of vitamins and minerals."
     },
     {
       "drinkName": "Milkshake",
@@ -46,7 +51,8 @@
       "drinkPrice": 4.99,
       "drinkDiscount": 0.15,
       "drinkDescription": "A classic shake made with ice cream and milk.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/milkshake.png"
+      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/milkshake.png",
+      "detail": "Milkshakes are classic treats made with a blend of ice cream and milk. They come in various flavors and are often topped with whipped cream and a cherry."
     },
     {
       "drinkName": "Iced Latte",
@@ -54,7 +60,8 @@
       "drinkPrice": 4.99,
       "drinkDiscount": 0.20,
       "drinkDescription": "A refreshing latte made with espresso, milk, and ice.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/iced_latte.png"
+      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/iced_latte.png",
+      "detail": "Iced lattes are popular coffee-based beverages made with espresso, milk, and ice. They offer a cool and creamy way to enjoy your favorite coffee flavors."
     },
     {
       "drinkName": "Hot Chocolate",
@@ -62,7 +69,8 @@
       "drinkPrice": 3.99,
       "drinkDiscount": 0.10,
       "drinkDescription": "A warm and comforting drink made with rich chocolate and milk.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/hot_chocolate.png"
+      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/hot_chocolate.png",
+      "detail": "Hot chocolate is a cozy and indulgent beverage made with rich chocolate and warm milk. It is often topped with whipped cream or marshmallows for added delight."
     },
     {
       "drinkName": "Margarita",
@@ -70,7 +78,8 @@
       "drinkPrice": 7.99,
       "drinkDiscount": 0.25,
       "drinkDescription": "A classic cocktail made with tequila, lime juice, and triple sec.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/margarita.png"
+      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/margarita.png",
+      "detail": "Margarita is a popular and refreshing cocktail made with tequila, lime juice, and triple sec. It is often served with salt on the rim of the glass and can be enjoyed frozen or on the rocks."
     },
     {
       "drinkName": "Mojito",
@@ -78,7 +87,8 @@
       "drinkPrice": 8.99,
       "drinkDiscount": 0.30,
       "drinkDescription": "A refreshing cocktail made with rum, lime juice, and mint.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/mojito.png"
+      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/mojito.png",
+      "detail": "Mojito is a popular cocktail that combines the flavors of rum, lime juice, mint leaves, sugar, and soda water. It is a refreshing and minty drink, perfect for a summer day."
     }
   ]
 }
