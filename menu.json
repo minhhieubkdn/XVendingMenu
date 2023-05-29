@@ -1,6 +1,7 @@
 {
     "drinks": [
         {
+            "drinkId":1,
             "drinkName": "Nước chanh",
             "drinkType": "Không có cồn",
             "drinkPrice": 15000,
@@ -10,6 +11,7 @@
             "drinkDetail": "Nước chanh là một đồ uống thanh mát và chua được làm từ chanh tươi vắt lấy nước. Đây là nguồn cung cấp tuyệt vời của vitamin C và được biết đến với tính chất thanh lọc cơ thể."
         },
         {
+            "drinkId":2,
             "drinkName": "Soda",
             "drinkType": "Không có cồn",
             "drinkPrice": 17000,
@@ -19,6 +21,7 @@
             "drinkDetail": "Soda là một đồ uống có gas với nhiều hương vị khác nhau. Đây là lựa chọn phổ biến để giải khát và thường được thưởng thức với đá và một lát chanh hoặc chanh vàng."
         },
         {
+            "drinkId":3,
             "drinkName": "Trà",
             "drinkType": "Không có cồn",
             "drinkPrice": 15000,
@@ -28,6 +31,7 @@
             "drinkDetail": "Trà là một đồ uống đa dụng và được tiêu thụ rộng rãi. Có thể thưởng thức trà nóng hoặc trà đá và có nhiều hương vị khác nhau như trà xanh, trà đen và trà thảo mộc."
         },
         {
+            "drinkId":4,
             "drinkName": "Cà phê",
             "drinkType": "Không có cồn",
             "drinkPrice": 12000,
@@ -37,6 +41,7 @@
             "drinkDetail": "Cà phê là một đồ uống cafein phổ biến được thưởng thức bởi nhiều người. Có thể pha chế cà phê nóng hoặc cà phê đá và có nhiều loại rang và hương vị khác nhau. Cà phê nổi tiếng với hiệu ứng kích thích của nó."
         },
         {
+            "drinkId":5,
             "drinkName": "Sinh tố",
             "drinkType": "Không có cồn",
             "drinkPrice": 25000,
@@ -46,6 +51,7 @@
             "drinkDetail": "Sinhtố là một loại đồ uống lành mạnh và ngon miệng được làm từ việc pha trộn trái cây tươi, sữa chua và nước hoa quả với nhau. Đây là một cách tuyệt vời để cung cấp vitamin và khoáng chất cho cơ thể."
         },
         {
+            "drinkId":6,
             "drinkName": "Milkshake",
             "drinkType": "Không có cồn",
             "drinkPrice": 25000,
@@ -55,6 +61,7 @@
             "drinkDetail": "Milkshake là một loại đặc sản kinh điển được làm từ sự kết hợp của kem và sữa. Có nhiều hương vị khác nhau và thường được trang trí bằng kem tươi và quả anh đào."
         },
         {
+            "drinkId":7,
             "drinkName": "Cà phê đá",
             "drinkType": "Không có cồn",
             "drinkPrice": 27000,
@@ -64,6 +71,7 @@
             "drinkDetail": "Cà phê đá là một loại đồ uống phổ biến dựa trên cà phê được làm từ cà phê espresso, sữa và đá. Nó mang đến cách thưởng thức cà phê mát mẻ và đậm đà."
         },
         {
+            "drinkId":8,
             "drinkName": "Chocolate nóng",
             "drinkType": "Không có cồn",
             "drinkPrice": 27000,
@@ -73,6 +81,7 @@
             "drinkDetail": "Sô cô la nóng là một loại đồ uống ấm áp và thú vị được làm từ sô cô la đậm và sữa ấm. Thường được trang trí bằng kem tươi hoặc kẹo marshmallow để thêm sự ngon miệng."
         },
         {
+            "drinkId":9,
             "drinkName": "Margarita",
             "drinkType": "Có cồn",
             "drinkPrice": 35000,
@@ -82,6 +91,7 @@
             "drinkDetail": "Margarita là một loại cocktail phổ biến và mát lạnh được làm từ tequila, nước chanh và triple sec. Thường được phục vụ với muối ở mép ly và có thể thưởng thức đá hay không đá."
         },
         {
+            "drinkId":10,
             "drinkName": "Mojito",
             "drinkType": "Có cồn",
             "drinkPrice": 45000,
