@@ -1,94 +1,94 @@
 {
-  "drinks": [
-    {
-      "drinkName": "Lemon Juice",
-      "drinkType": "Non-Alcoholic",
-      "drinkPrice": 15000,
-      "drinkDiscount": 5000,
-      "drinkDescription": "Refreshing citrus beverage.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/lemon_juice.png",
-      "drinkDetail": "Lemon juice is a refreshing and tangy drink made from freshly squeezed lemons. It is a great source of vitamin C and is known for its detoxifying properties."
-    },
-    {
-      "drinkName": "Soda",
-      "drinkType": "Non-Alcoholic",
-      "drinkPrice": 17000,
-      "drinkDiscount": 3000,
-      "drinkDescription": "Fizzing refreshing drink.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/soda.png",
-      "drinkDetail": "Soda is a carbonated beverage that comes in various flavors. It is a popular choice for quenching thirst and is often enjoyed with ice and a slice of lemon or lime."
-    },
-    {
-      "drinkName": "Tea",
-      "drinkType": "Non-Alcoholic",
-      "drinkPrice": 15000,
-      "drinkDiscount": 5000,
-      "drinkDescription": "Versatile and flavorful.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/tea.png",
-      "drinkDetail": "Tea is a versatile and widely consumed beverage. It can be enjoyed hot or iced and comes in a variety of flavors, such as green tea, black tea, and herbal tea."
-    },
-    {
-      "drinkName": "Coffee",
-      "drinkType": "Non-Alcoholic",
-      "drinkPrice": 12000,
-      "drinkDiscount": 4000,
-      "drinkDescription": "Invigorating caffeinated beverage.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/blackcoffee.png",
-      "drinkDetail": "Coffee is a popular caffeinated beverage enjoyed by many. It can be served hot or iced and comes in different roasts and flavors. Coffee is known for its stimulating effects."
-    },
-    {
-      "drinkName": "Smoothie",
-      "drinkType": "Non-Alcoholic",
-      "drinkPrice": 25000,
-      "drinkDiscount": 5000,
-      "drinkDescription": "Healthy fruity delight.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/smoothie.png",
-      "drinkDetail": "Smoothies are healthy and delicious drinks made by blending fresh fruits, yogurt, and juice together. They are a great way to get a dose of vitamins and minerals."
-    },
-    {
-      "drinkName": "Milkshake",
-      "drinkType": "Non-Alcoholic",
-      "drinkPrice": 25000,
-      "drinkDiscount": 5000,
-      "drinkDescription": "Creamy frozen treat.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/milkshake.png",
-      "drinkDetail": "Milkshakes are classic treats made with a blend of ice cream and milk. They come in various flavors and are often topped with whipped cream and a cherry."
-    },
-    {
-      "drinkName": "Iced Latte",
-      "drinkType": "Non-Alcoholic",
-      "drinkPrice": 27000,
-      "drinkDiscount": 3000,
-      "drinkDescription": "Chilled coffee delight.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/iced_latte.png",
-      "drinkDetail": "Iced lattes are popular coffee-based beverages made with espresso, milk, and ice. They offer a cool and creamy way to enjoy your favorite coffee flavors."
-    },
-    {
-      "drinkName": "Hot Chocolate",
-      "drinkType": "Non-Alcoholic",
-      "drinkPrice": 27000,
-      "drinkDiscount": 3000,
-      "drinkDescription": "Cozy chocolate indulgence..",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/hot_chocolate.png",
-      "drinkDetail": "Hot chocolate is a cozy and indulgent beverage made with rich chocolate and warm milk. It is often topped with whipped cream or marshmallows for added delight."
-    },
-    {
-      "drinkName": "Margarita",
-      "drinkType": "Alcoholic",
-      "drinkPrice": 35000,
-      "drinkDiscount": 10000,
-      "drinkDescription": "Refreshing tequila mix.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/margarita.png",
-      "drinkDetail": "Margarita is a popular and refreshing cocktail made with tequila, lime juice, and triple sec. It is often served with salt on the rim of the glass and can be enjoyed frozen or on the rocks."
-    },
-    {
-      "drinkName": "Mojito",
-      "drinkType": "Alcoholic",
-      "drinkPrice": 45000,
-      "drinkDiscount": 10000,
-      "drinkDescription": "Minty rum delight.",
-      "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/mojito.png",
-      "drinkDetail": "Mojito is a popular cocktail that combines the flavors of rum, lime juice, mint leaves, sugar, and soda water. It is a refreshing and minty drink, perfect for a summer day."
-    }
-  ]
+    "drinks": [
+        {
+            "drinkName": "Nước chanh",
+            "drinkType": "Không có cồn",
+            "drinkPrice": 15000,
+            "drinkDiscount": 5000,
+            "drinkDescription": "Đồ uống thanh mát với hương vị chanh.",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/lemon_juice.png",
+            "drinkDetail": "Nước chanh là một đồ uống thanh mát và chua được làm từ chanh tươi vắt lấy nước. Đây là nguồn cung cấp tuyệt vời của vitamin C và được biết đến với tính chất thanh lọc cơ thể."
+        },
+        {
+            "drinkName": "Soda",
+            "drinkType": "Không có cồn",
+            "drinkPrice": 17000,
+            "drinkDiscount": 3000,
+            "drinkDescription": "Đồ uống thanh mát có gas.",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/soda.png",
+            "drinkDetail": "Soda là một đồ uống có gas với nhiều hương vị khác nhau. Đây là lựa chọn phổ biến để giải khát và thường được thưởng thức với đá và một lát chanh hoặc chanh vàng."
+        },
+        {
+            "drinkName": "Trà",
+            "drinkType": "Không có cồn",
+            "drinkPrice": 15000,
+            "drinkDiscount": 5000,
+            "drinkDescription": "Đa dạng và đậm đà.",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/tea.png",
+            "drinkDetail": "Trà là một đồ uống đa dụng và được tiêu thụ rộng rãi. Có thể thưởng thức trà nóng hoặc trà đá và có nhiều hương vị khác nhau như trà xanh, trà đen và trà thảo mộc."
+        },
+        {
+            "drinkName": "Cà phê",
+            "drinkType": "Không có cồn",
+            "drinkPrice": 12000,
+            "drinkDiscount": 4000,
+            "drinkDescription": "Đồ uống kích thích với cafein.",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/blackcoffee.png",
+            "drinkDetail": "Cà phê là một đồ uống cafein phổ biến được thưởng thức bởi nhiều người. Có thể pha chế cà phê nóng hoặc cà phê đá và có nhiều loại rang và hương vị khác nhau. Cà phê nổi tiếng với hiệu ứng kích thích của nó."
+        },
+        {
+            "drinkName": "Sinh tố",
+            "drinkType": "Không có cồn",
+            "drinkPrice": 25000,
+            "drinkDiscount": 5000,
+            "drinkDescription": "Đồ uống trái cây lành mạnh.",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/smoothie.png",
+            "drinkDetail": "Sinhtố là một loại đồ uống lành mạnh và ngon miệng được làm từ việc pha trộn trái cây tươi, sữa chua và nước hoa quả với nhau. Đây là một cách tuyệt vời để cung cấp vitamin và khoáng chất cho cơ thể."
+        },
+        {
+            "drinkName": "Milkshake",
+            "drinkType": "Không có cồn",
+            "drinkPrice": 25000,
+            "drinkDiscount": 5000,
+            "drinkDescription": "Đồ uống lạnh béo ngọt.",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/milkshake.png",
+            "drinkDetail": "Milkshake là một loại đặc sản kinh điển được làm từ sự kết hợp của kem và sữa. Có nhiều hương vị khác nhau và thường được trang trí bằng kem tươi và quả anh đào."
+        },
+        {
+            "drinkName": "Cà phê đá",
+            "drinkType": "Không có cồn",
+            "drinkPrice": 27000,
+            "drinkDiscount": 3000,
+            "drinkDescription": "Cà phê lạnh mát.",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/iced_latte.png",
+            "drinkDetail": "Cà phê đá là một loại đồ uống phổ biến dựa trên cà phê được làm từ cà phê espresso, sữa và đá. Nó mang đến cách thưởng thức cà phê mát mẻ và đậm đà."
+        },
+        {
+            "drinkName": "Chocolate nóng",
+            "drinkType": "Không có cồn",
+            "drinkPrice": 27000,
+            "drinkDiscount": 3000,
+            "drinkDescription": "Chocolate ấm áp thú vị.",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/hot_chocolate.png",
+            "drinkDetail": "Sô cô la nóng là một loại đồ uống ấm áp và thú vị được làm từ sô cô la đậm và sữa ấm. Thường được trang trí bằng kem tươi hoặc kẹo marshmallow để thêm sự ngon miệng."
+        },
+        {
+            "drinkName": "Margarita",
+            "drinkType": "Có cồn",
+            "drinkPrice": 35000,
+            "drinkDiscount": 10000,
+            "drinkDescription": "Tequila mát lạnh.",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/margarita.png",
+            "drinkDetail": "Margarita là một loại cocktail phổ biến và mát lạnh được làm từ tequila, nước chanh và triple sec. Thường được phục vụ với muối ở mép ly và có thể thưởng thức đá hay không đá."
+        },
+        {
+            "drinkName": "Mojito",
+            "drinkType": "Có cồn",
+            "drinkPrice": 45000,
+            "drinkDiscount": 10000,
+            "drinkDescription": "Rum hương bạc hà.",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/mojito.png",
+            "drinkDetail": "Mojito là một loại cocktail phổ biến kết hợp hương vị của rum, nước chanh, lá bạc hà, đường và nước soda. Đây là một loại đồ uống mát lạnh và hương bạc hà, hoàn hảo cho một ngày hè."
+        }
+    ]
 }
