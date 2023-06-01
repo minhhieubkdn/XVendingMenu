@@ -4,7 +4,7 @@
             "drinkId":1,
             "drinkName": "Cà phê đá",
             "drinkType": "Không có cồn",
-            "drinkPrice": 27000,
+            "drinkPrice": 12000,
             "drinkDiscount": 3000,
             "drinkDescription": "Cà phê lạnh mát.",
             "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/iced_latte.png",
@@ -14,7 +14,7 @@
             "drinkId":2,
             "drinkName": "Trà chanh",
             "drinkType": "Không có cồn",
-            "drinkPrice": 12000,
+            "drinkPrice": 15000,
             "drinkDiscount": 3000,
             "drinkDescription": "Đồ uống thanh mát với hương vị chanh.",
             "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/lemon_juice.png",
@@ -24,10 +24,10 @@
             "drinkId": 3,
             "drinkName": "Trà đào",
             "drinkType": "Không có cồn",
-            "drinkPrice": 35000,
-            "drinkDiscount": 0,
+            "drinkPrice": 15000,
+            "drinkDiscount": 2000,
             "drinkDescription": "Đồ uống trà đào thơm ngon.",
-            "drinkImage": "https://example.com/tea-peach.jpg",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/strawberry.png",
             "drinkDetail": "Trà đào là một loại thức uống truyền thống của Đài Loan. Nó được làm từ việc pha trộn trà đen và đào tươi để tạo ra một hương vị thơm ngon và thanh mát. Trà đào thường được phục vụ với đá và thêm một ít đường để tăng thêm hương vị ngọt ngào."
         }
     ]
