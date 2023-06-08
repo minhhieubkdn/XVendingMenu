@@ -1,6 +1,5 @@
 {
     "drinks": [
-        
         {
             "drinkId":1,
             "drinkName": "Chanh dây",
@@ -20,6 +19,17 @@
             "drinkDescription": "Cà phê lạnh mát.",
             "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/iced_latte.png",
             "drinkDetail": "Cà phê đá là một loại đồ uống phổ biến dựa trên cà phê được làm từ cà phê espresso, sữa và đá. Nó mang đến cách thưởng thức cà phê mát mẻ và đậm đà."
+        },
+        {
+            "drinkId": 3,
+            "drinkName": "Coca-Cola",
+            "drinkType": "Có cồn",
+            "drinkPrice": 2000,
+            "drinkDiscount": 0,
+            "drinkDescription": "Tươi mát ngày hè",
+            "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/cocacola.png",
+            "drinkDetail": "Coca-Cola là một loại đồ uống có gas nổi tiếng và phổ biến trên toàn thế giới. Nó có hương vị ngọt ngào và sảng khoái, được làm từ các thành phần như nước, đường, chất tạo gas và các hương liệu tự nhiên. Coca-Cola thường được phục vụ lạnh và là một lựa chọn phổ biến trong các buổi tiệc và dịp họp mặt."
         }
+        
     ]
 }
