@@ -3,7 +3,7 @@
         {
             "drinkId":1,
             "drinkName": "Chanh dây",
-            "drinkType": "Không có cồn",
+            "drinkType": "Không có gas",
             "drinkPrice": 2000,
             "drinkDiscount": 2000,
             "drinkDescription": "Ngọt thanh giải khát",
@@ -13,7 +13,7 @@
         {
             "drinkId":2,
             "drinkName": "Cà phê sữa",
-            "drinkType": "Không có cồn",
+            "drinkType": "Không có gas",
             "drinkPrice": 3000,
             "drinkDiscount": 2000,
             "drinkDescription": "Cà phê lạnh mát.",
@@ -23,9 +23,9 @@
         {
             "drinkId": 3,
             "drinkName": "Coca-Cola",
-            "drinkType": "Có cồn",
-            "drinkPrice": 2000,
-            "drinkDiscount": 0,
+            "drinkType": "Có gas",
+            "drinkPrice": 3000,
+            "drinkDiscount": 2000,
             "drinkDescription": "Tươi mát ngày hè",
             "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/cocacola.png",
             "drinkDetail": "Coca-Cola là một loại đồ uống có gas nổi tiếng và phổ biến trên toàn thế giới. Nó có hương vị ngọt ngào và sảng khoái, được làm từ các thành phần như nước, đường, chất tạo gas và các hương liệu tự nhiên. Coca-Cola thường được phục vụ lạnh và là một lựa chọn phổ biến trong các buổi tiệc và dịp họp mặt."
