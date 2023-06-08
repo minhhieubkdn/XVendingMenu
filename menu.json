@@ -16,9 +16,9 @@
             "drinkType": "Không có gas",
             "drinkPrice": 12000,
             "drinkDiscount": 3000,
-            "drinkDescription": "Cà phê lạnh mát.",
+            "drinkDescription": "Cà phê sữa siêu siêu béo",
             "drinkImage": "https://raw.githubusercontent.com/minhhieubkdn/XVendingMenu/main/images/iced_latte.png",
-            "drinkDetail": "Cà phê đá là một loại đồ uống phổ biến dựa trên cà phê được làm từ cà phê espresso, sữa và đá. Nó mang đến cách thưởng thức cà phê mát mẻ và đậm đà."
+            "drinkDetail": "Bạc xỉu đá là một loại đồ uống truyền thống phổ biến ở miền Nam Việt Nam. Được làm từ cà phê pha lọc kết hợp với sữa đặc và đá, bạc xỉu đá mang đến hương vị đậm đà và thơm ngon. Đây là một cách tuyệt vời để thưởng thức cà phê mát lạnh trong những ngày nóng."
         },
         {
             "drinkId": 3,
