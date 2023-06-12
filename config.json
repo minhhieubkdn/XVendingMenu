@@ -1,11 +1,4 @@
 {
-    "STATUS": {
-      "INIT_DEVICES": 0,
-      "FREE": 1,
-      "EXECUTING": 2,
-      "DONE": 3,
-      "ERROR": 4
-    },
     "FEEDRATE": 600,
     "ACCEL": 1000,
     "JERK": 100000,
